@@ -1,26 +1,26 @@
 ## Welcome to GitHub Pages
 
 <center>
-     <h1>开到荼蘼</h1>
+     <h1>只求不挂科</h1>
      <div>
          <span>
              <img src="https://niit-soft.oss-cn-hangzhou.aliyuncs.com/assets/phone-solid.svg" width="18px">
-             13951905171
+             13327838499
          </span>
          ·
          <span>
              <img src="https://niit-soft.oss-cn-hangzhou.aliyuncs.com/assets/envelope-solid.svg" width="18px">
-             moqi1977@gmail.com
+             1172648859@gmail.com
          </span>
          ·
          <span>
              <img src="https://niit-soft.oss-cn-hangzhou.aliyuncs.com/avatar/me.jpg" width="18px">
-             <a href="https://github.com/mqxu">我的Github</a>
+             <a href="https://github.com/zhoukanglei666">我的Github</a>
          </span>
          ·
          <span>
              <img src="https://niit-soft.oss-cn-hangzhou.aliyuncs.com/avatar/me.jpg" width="18px">
-             <a href="https://mqxu.github.io/blog.github.io/">我的博客</a>
+             <a href="https://zhoukanglei666.github.io/blog.github.io/">我的博客</a>
          </span>
      </div>
  </center>
@@ -28,25 +28,25 @@
 
  ## <img src="https://niit-soft.oss-cn-hangzhou.aliyuncs.com/assets/info-circle-solid.svg" width="30px"> 个人信息 
 
- - Java 工程师
- - 工作经验：21年
+ - 妄想做老板
+ - 工作经验：希望能有工作经验
 
 
 ## <img src="https://niit-soft.oss-cn-hangzhou.aliyuncs.com/assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
-- 硕士，XXXX大学，计算机科学与技术专业，2016.9~2019.7
-- 学士，XXXX大学，计算机科学与技术专业，2012.9~2016.7
+- 专科，皇家机电，软件技术，2018.9~2021.7
+- 学士，南京工业职业技术大学，软件工程，2021.9~2023.7
 - 外语能力： CET4/6 英语等级考试
 
 ## <img src="https://niit-soft.oss-cn-hangzhou.aliyuncs.com/assets/briefcase-solid.svg" width="30px"> 工作经历
 
-- **XXXX 公司，XXXX 部门，XXXX 工程师，2010.1~2010.9**
+- **嘉林荣达公司，老板
 
-   负责 XXX
+   负责数钱
 
 ## <img src="https://niit-soft.oss-cn-hangzhou.aliyuncs.com/assets/project-diagram-solid.svg" width="30px"> 项目经历
 
-- **XXXX 项目**
+- **自媒体项目**
 
   *使用到的技术*
 
@@ -54,9 +54,9 @@
 
 ## <img src="https://niit-soft.oss-cn-hangzhou.aliyuncs.com/assets/tools-solid.svg" width="30px"> 技能清单
 
-- ★★★ Java
-- ★★☆ Spring
-- ★★☆ HTML/CSS/JavaScript
-- ★★☆ Python
-- ★★★ MySQL
-- ★★★ Redis
+- ★★★ 啥
+- ★★☆ 也
+- ★★☆ 不
+- ★★☆ 会
+- ★★★ 呀
+- ★★★ 难搞！
